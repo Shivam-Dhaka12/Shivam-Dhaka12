@@ -46,7 +46,7 @@
 - 👀 I've keen interest in .. **Development, DSA, and Cloud Computing**.
 - 🌱 I’m currently on a MERN stack learning journey and currently working on **React**.
 - 🏠 I've recently put together a Full-Stack NodeJS application [Natours](https://natours-node.cyclic.app)
-- 👩‍💻 I solved 500+ problems at [LeetCode](https://auth.geeksforgeeks.org/user/shivamdhaka1200/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivamdhaka1200/)
+- 👩‍💻 I solved 500+ problems at [LeetCode](https://leetcode.com/shivamdhaka1200/) and [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shivamdhaka1200/)
 - ☁️ 1x GCP certified [Associate CLoud Engineer](https://google.accredible.com/b2247d94-e0b0-4e97-ba18-32918de73741). 
 - 📝 I write articles on [Hashnode](https://shivamdhaka.hashnode.dev/)
 - 💼 I'm currently open for new **job oppurtunities**. See my [resume](https://drive.google.com/file/d/1goH60shXu-cxFIv9TELmOqNle_8WYJnm/view?usp=sharing)
