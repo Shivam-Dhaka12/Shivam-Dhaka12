@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam-Dhaka
-- 👀 I’m interested in ...Cloud and DSA.
-- 🌱 I’m currently working as a Platform Enginner Intern.
+- 👀 I’m interested in ... Full Stack Development and DevOps.
+- 🌱 I’m currently learning MERN Stack.
 - 📫 You can reach me at (https://www.linkedin.com/in/shivam-dhaka12/)
 
 <!---
